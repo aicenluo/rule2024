@@ -1,3 +1,7 @@
+#补充网址代理访问
+DOMAIN-SUFFIX,gorelay.net
+DOMAIN-SUFFIX,ip2world.com
+
 #PT网站（代理访问）
 DOMAIN-SUFFIX,torrentleech.org
 DOMAIN-SUFFIX,carpt.net
