@@ -2,6 +2,9 @@
 DOMAIN-SUFFIX,gorelay.net
 DOMAIN-SUFFIX,ip2world.com
 
+#GoRelay中转平台支付域名
+DOMAIN-SUFFIX,zuy.cc
+
 #PT网站（代理访问）
 DOMAIN-SUFFIX,torrentleech.org
 DOMAIN-SUFFIX,carpt.net
