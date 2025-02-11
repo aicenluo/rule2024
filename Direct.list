@@ -8,13 +8,11 @@ SRC-IP-CIDR,192.168.100.5/32
 #PT网站（直连访问）
 DOMAIN-SUFFIX,hddolby.com
 DOMAIN-SUFFIX,52pt.site
-DOMAIN-SUFFIX,haidan.video
 DOMAIN-SUFFIX,ubits.club
 DOMAIN-SUFFIX,hdmayi.com
 DOMAIN-SUFFIX,hdvideo.one
 DOMAIN-SUFFIX,ultrahd.net
 DOMAIN-SUFFIX,ptchina.org
-DOMAIN-SUFFIX,piggo.me
 DOMAIN-SUFFIX,icc2022.com
 DOMAIN-SUFFIX,zmpt.cc
 DOMAIN-SUFFIX,m-team.cc
@@ -32,7 +30,6 @@ DOMAIN-SUFFIX,hdkyl.in
 DOMAIN-SUFFIX,soulvoice.club
 DOMAIN-SUFFIX,qingwapt.com
 DOMAIN-SUFFIX,cyanbug.net
-DOMAIN-SUFFIX,pttime.org
 DOMAIN-SUFFIX,okpt.net
 DOMAIN-SUFFIX,yemapt.org
 DOMAIN-SUFFIX,hdpt.xyz
