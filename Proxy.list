@@ -12,6 +12,9 @@ DOMAIN-SUFFIX,hawke.uno
 DOMAIN-SUFFIX,crabpt.vip
 DOMAIN-SUFFIX,pt.cdfile.org
 DOMAIN-SUFFIX,raingfh.top
+DOMAIN-SUFFIX,haidan.video
+DOMAIN-SUFFIX,piggo.me
+DOMAIN-SUFFIX,pttime.org
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
